@@ -11,7 +11,7 @@
 
 ## 홈페이지 주소
 
-배포 후 추가 예정
+https://portfolio-budget-challenge.vercel.app
 
 ## 구성
 
