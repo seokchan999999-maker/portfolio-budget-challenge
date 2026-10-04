@@ -1,20 +1,18 @@
-# 가계부 챌린지
+# 픽셀라인 홈페이지
 
-이루미의 돈·소비·경제 프로젝트 소개 홈페이지입니다.
+주식회사 픽셀라인의 리뷰 관리 서비스 소개 홈페이지입니다.
 
-- 소개: 혁신적인 저축방법
-- 시작한 이유: 과소비가 너무 심해서
-- 사용한 AI: ChatGPT
-- 만든 순서: 미공개
-- 결과: 돈을 아끼게 됨
-- 이루미의 생각: “AI 시대, 인간 시대의 끝이 도래하다.”
-
-## 홈페이지 주소
-
-https://portfolio-budget-challenge.vercel.app
+홈페이지: https://pixelline-biz.vercel.app/
 
 ## 구성
+- index.html: 첫 화면
+- review.html: 서비스 안내
+- process.html: 진행 과정
+- pricing.html: 가격 안내
+- brand.html: 브랜드 소개
+- style.css: 반응형 디자인
+- script.js: 기존 라이트/다크 모드 전환
+- assets/: 사용자가 제공한 이미지
 
-`index.html`, `style.css`, `script.js`로 만든 정적 사이트입니다. 별도 빌드가 필요 없습니다. 휴대폰 화면과 다크 모드를 지원합니다. Noto Sans KR 글꼴을 Google Fonts에서 불러옵니다.
-
-이 저장소는 소개 홈페이지 코드만 포함합니다. 원본 프로젝트 파일과 비공개 저축방법은 포함하지 않습니다.
+HTML, CSS, JavaScript 정적 사이트로 별도 빌드가 필요 없습니다.
+기존 GitHub 저장소와 Vercel 프로젝트를 사용합니다.
