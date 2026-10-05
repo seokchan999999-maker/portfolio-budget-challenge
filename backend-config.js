@@ -1,0 +1,1 @@
+export const backend = {"url":"https://qqkyzcduvwyryxbstxxb.supabase.co","anonKey":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFxa3l6Y2R1dnd5cnl4YnN0eHhiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTExNjMwOTksImV4cCI6MjEwNjczOTA5OX0.Ej1nDRmyb9w1vXyJv4Ax9p2NFlaNP7ShRJ761SZVBxU"};
