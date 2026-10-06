@@ -21,4 +21,6 @@ HTML, CSS, JavaScript 정적 사이트로 별도 빌드가 필요 없습니다.
 ## 무료 호스팅 이전
 Cloudflare Pages: https://pixelline-biz.pages.dev/
 GitHub main 변경 시 자동 배포됩니다.
-관리자 화면: /admin.html (지정된 계정만 상담 자료 조회 가능). 고객 접수는 아직 준비 중입니다.
+관리자 화면: /admin.html (지정된 계정만 상담 자료 조회 가능). 고객 접수: https://pixelline-biz.pages.dev/consultation
+관리자는 상담 완료 시 상태를 상담 종료로 변경하세요. 이후 6개월이 지나면 매일 자동 삭제합니다. 다운로드한 사본도 같은 기준으로 관리하세요.
+Supabase Free 저장 공간·전송량 한도 내에서 사용하며, 서비스 중지 시 관리자 확인이 필요합니다.
